@@ -13,3 +13,5 @@ echo curl https://raw.githubusercontent.com/stt562/test/refs/heads/main/Autoupda
 echo del tempfile.cmd>>tempfile.cmd
 
 start tempfile.cmd
+echo it worked
+cls
