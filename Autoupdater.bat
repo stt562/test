@@ -6,7 +6,7 @@ set /a ver=Alpha
 timeout 10
 cls
 echo Updating... & echo: & curl https://raw.githubusercontent.com/stt562/test/refs/heads/main/Autoupdater.bat>Autoupdater.bat
-time /T>t.txt
+start "" /WAIT time /T>t.txt & timeout 3 >nul & exit
 set /a t=<t.txt
 del t.txt
 cls
