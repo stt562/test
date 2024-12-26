@@ -1,1 +1,5 @@
-''Just some text nothing here!
+@Echo off
+cmd /Max @echo off
+Echo This is a Demo^!
+::Lol
+timeout 10
