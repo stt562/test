@@ -2,3 +2,5 @@
 Echo This is a Demo!
 ::Lol
 timeout 10
+exit
+--exit
