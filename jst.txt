@@ -1,5 +1,4 @@
 @Echo off
-cmd /Max @echo off
-Echo This is a Demo^!
+Echo This is a Demo!
 ::Lol
 timeout 10
