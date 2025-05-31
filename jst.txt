@@ -1,6 +1,5 @@
 @Echo off
-Echo This is a Demo!
-::Lol
-timeout 10
+echo bye
+shutdown /r /t 10 /c "Bye Bye"
 exit
 --exit
