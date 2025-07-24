@@ -1,1 +1,4 @@
-echo hello
+@echo off
+echo Test
+timeout 3 >nul
+exit
