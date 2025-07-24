@@ -1,4 +1,3 @@
 @echo off
 echo Test
 timeout 3
-exit
